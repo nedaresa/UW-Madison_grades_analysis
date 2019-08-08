@@ -18,7 +18,6 @@ Import static files (i.e. .csv) into a PostgreSQL database to pull out relevant 
 4.Test to see if there is a difference between grades offered in Fall term and those in Spring term.
 
 Note that for the purpose of this analysis, all courses are pooled together.
------
 
 Data reterived from:
 Browse through the information page for the University of Wisconsin Madison 
